@@ -1,12 +1,12 @@
 # **Youssef RACHIDI**
 <img align="right" src="images/Ganesh.png"/>  
 
-### **iOS Developer**
-_Andhra Pradesh, India (IST+5:30)_
+### **iOS/Android Developer**
+_cASABLANCA, MORROCO (casablanca+01:00)_
 
 Links:
 
-* Contact: +91-7995791961
+* Contact: +212-681517079
 * E-mail: yourath3@gmail.com
 * LinkedIn: https://www.linkedin.com/in/youssef-rachidi-alaoui-08b254199/
 * GitHub: https://github.com/yousefrachidi/ 
