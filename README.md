@@ -2,7 +2,7 @@
 <img align="right" src="images/Ganesh.png"/>  
 
 ### **iOS/Android Developer**
-_cASABLANCA, MORROCO (casablanca+01:00)_
+_CASABLANCA, MORROCO (casablanca+01:00)_
 
 Links:
 
